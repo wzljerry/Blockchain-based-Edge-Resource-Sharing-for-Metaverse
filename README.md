@@ -1,5 +1,5 @@
 # Blockchain-based-Edge-Resource-Sharing-for-Metaverse
-This paper has been accepted by IEEE MASS 2023.
+This paper has been accepted by IEEE MASS 2022.
 
 # Problem Description
 We are going to solve a multiple task allocation problem on mobile edge servers. The system has m tasks and n servers, and m>n. Each task has it's price  ,data size, and time limitation for computing; and each server has its computing capacity, CPU architecture, and communication bandwidth. Our goal is the find a best allocation scheme to assign each task to one server and get the maximum payments for the whole system. 
