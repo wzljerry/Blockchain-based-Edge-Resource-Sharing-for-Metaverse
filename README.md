@@ -27,9 +27,9 @@ Each state selects the actions randomly.
 
 Please cite:
 
-@article{wang2022blockchain,
-  title={Blockchain-based Edge Resource Sharing for Metaverse},
-  author={Wang, Zhilin and Hu, Qin and Xu, Minghui and Jiang, Honglu},
-  journal={arXiv preprint arXiv:2208.05120},
-  year={2022}
+@article{wang2022blockchain,\\
+  title={Blockchain-based Edge Resource Sharing for Metaverse},\\
+  author={Wang, Zhilin and Hu, Qin and Xu, Minghui and Jiang, Honglu},\\
+  journal={arXiv preprint arXiv:2208.05120},\\
+  year={2022}\\
 }
