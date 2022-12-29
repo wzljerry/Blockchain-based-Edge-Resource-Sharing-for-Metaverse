@@ -25,11 +25,13 @@ Each state selects the maximum reward from avaliable actions.
 Each state selects the actions randomly.
 
 
-Please cite:
+###$ Please cite:
 
-@article{wang2022blockchain,
+@inproceedings{wang2022blockchain,
   title={Blockchain-based Edge Resource Sharing for Metaverse},
-  author={Wang, Zhilin and Hu, Qin and Xu, Minghui and Jiang, Honglu},
-  journal={arXiv preprint arXiv:2208.05120},
-  year={2022}
+  author={Wang, Zhilin and Hut, Qin and Xu, Minghui and Jiang, Honglu},
+  booktitle={2022 IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS)},
+  pages={620--626},
+  year={2022},
+  organization={IEEE}
 }
