@@ -3,7 +3,7 @@ This paper has been accepted by IEEE MASS 2022. [Link](https://arxiv.org/abs/220
 
 # How to run this project?
 
-1. We can run both python file or ipynb files directly after setting the parameter.
+1. We can run both python or ipynb files directly after setting the parameter.
 2. We can run main.py in MTA_QL directly.
 
 # Problem Description
