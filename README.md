@@ -1,5 +1,5 @@
 # Blockchain-based-Edge-Resource-Sharing-for-Metaverse
-This paper has been accepted by IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120)
+This paper has been accepted to IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120)
 
 # How to run this project?
 
