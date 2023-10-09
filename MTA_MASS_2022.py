@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 '''
-@Title : Blockchain-based Edge Resource Sharing for Metaverse
-@Author : Zhilin Wang
-@Email : wangzhil@iu.edu
-@Date : 14-04-2022
+@Title: Blockchain-based Edge Resource Sharing for Metaverse
+@Author: Zhilin Wang
+@Email: wang5327@purdue.edu
+@Date: 14-04-2022
 '''
 import numpy as np
 import pandas as pd
